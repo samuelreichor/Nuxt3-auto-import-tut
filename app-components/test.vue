@@ -1,0 +1,3 @@
+<template>
+    Text Component
+</template>
